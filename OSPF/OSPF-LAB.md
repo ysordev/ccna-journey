@@ -1,4 +1,4 @@
-# OSPF LAB — FROM SCRATCH
+# OSPF LAB
 
 ## Topology
 
